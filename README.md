@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my profile!!!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yajneshkumar790&label=Profile%20views&color=0e75b6&style=flat" alt="yajneshkumar790" />View Count</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yajneshkumar790&label=Profile%20views&color=0e75b6&style=flat" alt="yajneshkumar790" /> </p>
 
 - 🔭 I’m currently working on [ByteBlasters](https://byteblasters.vercel.app/)
 
