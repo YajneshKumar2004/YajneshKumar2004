@@ -1,3 +1,5 @@
+[![An image of @yajneshkumar790's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yajneshkumar790)](https://holopin.io/@yajneshkumar790)
+
 <h1 align="center">Hello there! 👋, I'm Yajnesh Kumar</h1>
 <h3 align="center">Welcome to my profile!!!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
