@@ -6,8 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yajneshkumar790&label=Profile%20views&color=0e75b6&style=flat" alt="yajneshkumar790" /> </p>
 
-<!--# 💫 About Me: -->
-<!--🌱 I’m currently learning React and Java<br>⚡ Fun fact, I am a fan of anime😁 -->
+# 💫 About Me: 
+🌱 I’m currently learning React and Java<be>
+<!--⚡ Fun fact, I am a fan of anime😁 -->
 
 
 ## 🌐 Socials:
